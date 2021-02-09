@@ -1,0 +1,24 @@
+{
+  "name": "usando-simplegit",
+  "version": "1.0.0",
+  "description": "Usando simple git para versionar um CSV exportado de uma query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinter/usando-simplegit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blinter/usando-simplegit/issues"
+  },
+  "homepage": "https://github.com/blinter/usando-simplegit#readme",
+  "dependencies": {
+    "git-parse": "^1.0.4",
+    "parse-diff": "^0.7.1",
+    "simple-git": "^2.34.2"
+  }
+}
